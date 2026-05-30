@@ -20,7 +20,7 @@ function Skills({ skills }) {
                 <div key={skill}>
                   <div className="mb-1 flex items-center justify-between text-sm text-slate-300">
                     <span>{skill}</span>
-                    <span>90%</span>
+                   
                   </div>
                   <div className="h-2 rounded-full bg-white/10">
                     <motion.div
