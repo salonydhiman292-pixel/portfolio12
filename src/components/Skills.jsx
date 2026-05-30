@@ -3,11 +3,11 @@ import { motion } from 'framer-motion'
 function Skills() {
   const skills = {
     Frontend: [
-      { name: 'React.js', level: 90 },
+      { name: 'React.js', level: 85 },
       { name: 'JavaScript', level: 85 },
       { name: 'HTML5', level: 95 },
       { name: 'CSS3', level: 90 },
-      { name: 'Tailwind CSS', level: 90 }
+      { name: 'Tailwind CSS', level: 80 }
     ],
 
     Backend: [
@@ -18,10 +18,14 @@ function Skills() {
     ],
 
     Tools: [
-      { name: 'Git', level: 90 },
-      { name: 'GitHub', level: 90 },
-      { name: 'VS Code', level: 95 },
-      { name: 'Postman', level: 85 }
+     { name: 'Git', level: 90 },
+  { name: 'GitHub', level: 90 },
+  { name: 'VS Code', level: 95 },
+  { name: 'Postman', level: 85 },
+  { name: 'Docker', level: 80 },
+  { name: 'AWS', level: 70 },
+  { name: 'Linux', level: 76 },
+  { name: 'Canva', level: 90 }
     ]
   }
 
