@@ -11,7 +11,7 @@ function Skills() {
     ],
 
     Backend: [
-      { name: 'Node.js', level: 85 },
+      { name: 'Node.js', level: 85 }, { name: 'JWT', level: 85 },
       { name: 'Express.js', level: 80 },
       { name: 'MongoDB', level: 80 },
       { name: 'REST APIs', level: 85 }
